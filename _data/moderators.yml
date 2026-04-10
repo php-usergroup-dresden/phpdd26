@@ -1,0 +1,12 @@
+moderators:
+  - name: 'TBD'
+    description: |
+      TBD
+    image: 'https://dummyimage.com/300x300/fff/aaa'
+    social:
+      - icon: 'twitter'
+        url: 'https://x.com/i/flow/login?redirect_after_login=%2Fphpugdd'
+      - icon: 'linkedin'
+        url: 'https://www.linkedin.com/company/php-usergroup-dresden/posts/?feedView=all'
+      - icon: 'mastodon'
+        url: 'https://phpc.social/@phpugdd'
