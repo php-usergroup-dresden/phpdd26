@@ -4,15 +4,15 @@ speakers:
       Stephan Hochdörfer is the Head of IT Business Operations at bitExpert AG, a company that specializes in pro-code and low-code software development. In his role, he oversees the software development processes, technical operations, sales, and strategic planning.
     image: '/assets/images/speakers/stephan-hochdoerfer.webp'
     talk:
-      title: 'tbd.'
+      title: 'Develop Faster, Not Harder: Accelerating development with Sylius Stack'
       abstract: |
-        following
+        Stop wasting time building admin frontends. It's time to embrace a more efficient, component-based approach. Sylius Stack offers a powerful set of Symfony-based packages designed to accelerate your development workflow, allowing you to create sophisticated UIs and backend logic with minimal effort. In this session, I'll cover everything you need to effectively manage entities, from dynamic grids to custom forms.
     social:
       - icon: 'linkedin'
         url: 'https://www.linkedin.com/in/shochdoerfer/'
       - icon: 'mastodon'
         url: 'https://phpc.social/@shochdoerfer'
-    type: 'Talk'
+    type: 'Livecoding'
 
   - name: 'Sebastian Kurfürst'
     bio: |
@@ -30,7 +30,7 @@ speakers:
       abstract: |
         following
     social:
-      - icon: 'neos'
+      - icon: 'mastodon'
         url: 'https://neos.social/@sebastian'
     type: 'Talk'
 
