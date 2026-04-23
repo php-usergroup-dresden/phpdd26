@@ -1,19 +1,81 @@
 speakers:
-  - name: 'TBD'
+  - name: 'Stephan Hochdörfer'
     bio: |
-      TBD
-    image: 'https://dummyimage.com/300x300/fff/aaa'
+      Stephan Hochdörfer is the Head of IT Business Operations at bitExpert AG, a company that specializes in pro-code and low-code software development. In his role, he oversees the software development processes, technical operations, sales, and strategic planning.
+    image: '/assets/images/speakers/stephan-hochdoerfer.webp'
     talk:
-      title: ''
+      title: 'Develop Faster, Not Harder: Accelerating development with Sylius Stack'
       abstract: |
-        TBD
+        Stop wasting time building admin frontends. It's time to embrace a more efficient, component-based approach. Sylius Stack offers a powerful set of Symfony-based packages designed to accelerate your development workflow, allowing you to create sophisticated UIs and backend logic with minimal effort. In this session, I'll cover everything you need to effectively manage entities, from dynamic grids to custom forms.
     social:
-      - icon: 'twitter'
-        url: 'https://x.com/i/flow/login?redirect_after_login=%2Fphpugdd'
       - icon: 'linkedin'
-        url: 'https://www.linkedin.com/company/php-usergroup-dresden/posts/?feedView=all'
+        url: 'https://www.linkedin.com/in/shochdoerfer/'
       - icon: 'mastodon'
-        url: 'https://phpc.social/@phpugdd'
+        url: 'https://phpc.social/@shochdoerfer'
+    type: 'Livecoding'
+
+  - name: 'Sebastian Kurfürst'
+    bio: |
+      Sebastian is a passionate software architect & coach, and has been involved in open source projects for over 20 years. 
+      
+      After being part of the TYPO3 core team, he has been co-responsible for Neos CMS for over 13 years. Sebastian has been instrumental in shaping many parts of it, including the React UI, and the rendering layer with Fluid and Fusion. 
+      
+      He is currently focussing on rebuilding the Neos content repository on the basis of event sourcing.
+      
+      Sebastian is co-founder and managing director of Sandstorm Media, a Dresden-based web agency focussing on sustainable software. In his spare time, he enjoys climbing and spending time with his family.
+
+    image: '/assets/images/speakers/sebastian-kurfuerst.jpg'
+    talk:
+      title: 'tbd.'
+      abstract: |
+        following
+    social:
+      - icon: 'mastodon'
+        url: 'https://neos.social/@sebastian'
+    type: 'Talk'
+
+  - name: 'Carsten Windler'
+    bio: |
+      Carsten has been a PHP developer for many years and has been loyal to his favourite language since PHP 3. Over the years, he has also led several development teams and departments. His focus is on code quality and the environmental compatibility of software.
+      
+      He currently works as a Principal Engineer at Plan A in Berlin, where he can combine writing code with a passion for fighting climate change. He is co-author of the book "Clean Code in PHP", which was published by Packt-Verlag in October 2022. He also regularly writes articles for specialist publications such as PHP Magazin and is an active speaker at developer conferences.
+    image: '/assets/images/speakers/carsten-windler.jpg'
+    talk:
+      title: 'tbd.'
+      abstract: |
+        following
+    social:
+      - icon: 'linkedin'
+        url: 'https://www.linkedin.com/in/cwindler'
+    type: 'Talk'
+
+  - name: 'Andreas Heigl'
+    bio: |
+      Andreas helps solving problems via his company stella-maris.solutions. He sometimes even uses code for that. 
+      
+      His special interests are in weird topics like time and calendars, odd technologies like LDAP and organizational challenges related to remote work. 
+      
+      Besides his family and contributions to different open-source-projects he still finds the time to co-run PHPUGFFM, the PHP-Usergroup in Frankfurt/Main and maintain PHP.ug.
+    image: '/assets/images/speakers/andreas-heigl.jpg'
+    talk:
+      title: 'tbd.'
+      abstract: |
+        following
+    social:
+      - icon: 'mastodon'
+        url: 'https://phpc.social/@heiglandreas'
+    type: 'Talk'
+
+  - name: 'Sebastian Bergmann'
+    bio: |
+      I am Sebastian Bergmann, the creator of PHPUnit, the testing framework that set the standard for professional PHP development. Since 2000, my work has helped developers worldwide write better, more reliable software.
+    image: '/assets/images/speakers/sebastian-bergmann.jpeg'
+    talk:
+      title: 'tbd.'
+      abstract: |
+        following
+    social:
+    type: 'Talk'
 
   - name: 'TBD'
     bio: |
@@ -30,6 +92,7 @@ speakers:
         url: 'https://www.linkedin.com/company/php-usergroup-dresden/posts/?feedView=all'
       - icon: 'mastodon'
         url: 'https://phpc.social/@phpugdd'
+    type: 'Talk'
 
   - name: 'TBD'
     bio: |
@@ -46,6 +109,7 @@ speakers:
         url: 'https://www.linkedin.com/company/php-usergroup-dresden/posts/?feedView=all'
       - icon: 'mastodon'
         url: 'https://phpc.social/@phpugdd'
+    type: 'Talk'
 
   - name: 'TBD'
     bio: |
@@ -62,19 +126,4 @@ speakers:
         url: 'https://www.linkedin.com/company/php-usergroup-dresden/posts/?feedView=all'
       - icon: 'mastodon'
         url: 'https://phpc.social/@phpugdd'
-
-  - name: 'TBD'
-    bio: |
-      TBD
-    image: 'https://dummyimage.com/300x300/fff/aaa'
-    talk:
-      title: 'TBD'
-      abstract: |
-        TBA
-    social:
-      - icon: 'twitter'
-        url: 'https://x.com/i/flow/login?redirect_after_login=%2Fphpugdd'
-      - icon: 'linkedin'
-        url: 'https://www.linkedin.com/company/php-usergroup-dresden/posts/?feedView=all'
-      - icon: 'mastodon'
-        url: 'https://phpc.social/@phpugdd'
+    type: 'Talk'
