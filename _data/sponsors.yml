@@ -52,6 +52,10 @@ sponsors:
     image: '/assets/images/sponsors/tideways.jpg'
     url: 'https://www.tideways.com/'
 
+  - name: 'Little Bird'
+    image: '/assets/images/sponsors/LITTLE-BIRD-Logo.svg'
+    url: 'https://www.little-bird.de/'
+
   - name: '☝️ Your company logo here'
     image: 'https://dummyimage.com/300x300/fff/aaa'
     url: 'mailto:orga@phpug-dresden.org'
