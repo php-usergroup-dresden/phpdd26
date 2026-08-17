@@ -56,6 +56,10 @@ sponsors:
     image: '/assets/images/sponsors/LITTLE-BIRD-Logo.svg'
     url: 'https://www.little-bird.de/'
 
+  - name: 'Fortuneglobe'
+    image: '/assets/images/sponsors/FortuneSolutions.webp'
+    url: 'https://www.fortuneglobe.com/'
+
   - name: '☝️ Your company logo here'
     image: 'https://dummyimage.com/300x300/fff/aaa'
     url: 'mailto:orga@phpug-dresden.org'
